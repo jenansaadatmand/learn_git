@@ -5,5 +5,5 @@
 | Quinn | 18 pts |
 | Sasa | 14 pts |
 | Mingkwan | 12 pts |
-| Monty | pts |
+| Monty | 16 pts |
 
