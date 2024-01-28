@@ -1,7 +1,7 @@
 | Student | Grade |
 |----------|----------|
-| Ronak | grade |
-| Nao | grade |
-| Quinn | grade |
-| Sasa | grade |
-| Mingkwan | grade |
+| Ronak | 12 pts |
+| Nao | 15 pts |
+| Quinn | 18 pts |
+| Sasa | 14 pts |
+| Mingkwan | 12 pts |
